@@ -1,0 +1,20 @@
+{
+    "name": "multilanaguagehelloworld",
+    "displayName": "MultiLanaguageHelloWorld",
+    "description": "Multi Language Hello World VS Code extension permits insertion of \"Hello Wor",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
