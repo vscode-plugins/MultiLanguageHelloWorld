@@ -13,7 +13,19 @@
         "snippets": [
             {
                 "language": "javascript",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/hello_js.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/hello_ts.json"
+            },
+            {
+                "language": "c",
+                "path": "./snippets/hello_c.json"
+            },
+            {
+                "language": "cpp",
+                "path": "./snippets/hello_cpp.json"
             }
         ]
     }

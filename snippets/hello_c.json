@@ -1,0 +1,17 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [
+            "#include <stdio.h>",
+            "",
+            "int main(int argc, char* argv[])",
+            "{",
+            "    printf(\"Hello World\\n\");",
+            "",
+            "    return 0;",
+            "}",
+            ""
+        ],
+        "description": "Hello World"
+    }
+}
