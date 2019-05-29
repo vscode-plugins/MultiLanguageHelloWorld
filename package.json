@@ -1,6 +1,6 @@
 {
-    "name": "multilanaguagehelloworld",
-    "displayName": "MultiLanaguageHelloWorld",
+    "name": "multilanguagehelloworld",
+    "displayName": "MultiLanguageHelloWorld",
     "description": "Multi Language Hello World VS Code extension permits insertion of \"Hello Wor",
     "version": "0.0.1",
     "engines": {

@@ -1,6 +1,6 @@
-# multilanaguagehelloworld README
+# multilanguagehelloworld README
 
-This is the README for your extension "multilanaguagehelloworld". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "multilanguagehelloworld". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
