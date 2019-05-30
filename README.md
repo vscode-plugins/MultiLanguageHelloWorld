@@ -1,4 +1,4 @@
-# VS Code Multi Language Hello World extension
+# VS Code Multi Language Hello World
 
 Multi Language Hello World VS Code extension permits insertion of "Hello World"
 program text for a number of programming languages
