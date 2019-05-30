@@ -33,8 +33,11 @@
             {
                 "language": "python",
                 "path": "./snippets/hello_py.json"
+            },
+            {
+                "language": "lua",
+                "path": "./snippets/hello_lua.json"
             }
-
         ]
     },
     "publisher": "SergeLamikhov",

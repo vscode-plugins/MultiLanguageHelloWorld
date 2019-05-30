@@ -12,6 +12,7 @@ Currently supported languages are:
 - JavaScript
 - TypeScript
 - Python
+- Lua
 
 ## Usage
 Just start typing **'hello'** and use IntelliSence autocomplition to insert the code
