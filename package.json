@@ -25,6 +25,10 @@
             {
                 "language": "cpp",
                 "path": "./snippets/hello_cpp.json"
+            },
+            {
+                "language": "java",
+                "path": "./snippets/hello_java.json"
             }
         ]
     },
