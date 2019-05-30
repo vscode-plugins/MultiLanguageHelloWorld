@@ -1,0 +1,11 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [
+            "my_string = \"Hello, World!\"",
+            "print(my_string)",
+            ""
+        ],
+        "description": "Hello World!"
+    }
+}

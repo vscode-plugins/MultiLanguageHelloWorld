@@ -11,10 +11,14 @@ Currently supported languages are:
 - Java
 - JavaScript
 - TypeScript
+- Python
+
+## Usage
+Just start typing **'hello'** and use IntelliSence autocomplition to insert the code
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+Initial release of Multi Language Hello World extension
 
 ### 1.0.0
 

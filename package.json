@@ -29,7 +29,12 @@
             {
                 "language": "java",
                 "path": "./snippets/hello_java.json"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/hello_py.json"
             }
+
         ]
     },
     "publisher": "SergeLamikhov",
