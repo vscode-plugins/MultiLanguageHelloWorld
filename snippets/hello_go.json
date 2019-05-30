@@ -1,0 +1,16 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [
+            "package main",
+            "",
+            "import \"fmt\"",
+            "",
+            "func main() {",
+            "    fmt.Println(\"Hello World!\")",
+            "}",
+            ""
+        ],
+        "description": "Hello World"
+    }
+}

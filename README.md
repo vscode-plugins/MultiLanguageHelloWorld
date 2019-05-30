@@ -1,18 +1,21 @@
 # VS Code Multi Language Hello World extension
 
-Multi Language Hello World VS Code extension permits insertion of "Hello World" program text for several programming languages
+Multi Language Hello World VS Code extension permits insertion of "Hello World"
+program text for a number of programming languages
 
 ## Features
 
-The extension permits to add a start code snippet for a number of programming languages.
 Currently supported languages are:
 - C
 - C++
+- C#
+- F#
+- Go
 - Java
 - JavaScript
-- TypeScript
-- Python
 - Lua
+- Python
+- TypeScript
 
 ## Usage
 Just start typing **'hello'** and use IntelliSence autocomplition to insert the code

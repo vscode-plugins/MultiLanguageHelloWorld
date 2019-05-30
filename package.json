@@ -2,7 +2,7 @@
     "name": "multilanguagehelloworld",
     "displayName": "Multi Language Hello World",
     "description": "Multi Language Hello World VS Code extension permits insertion of \"Hello Wor",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.34.0"
     },
@@ -37,6 +37,18 @@
             {
                 "language": "lua",
                 "path": "./snippets/hello_lua.json"
+            },
+            {
+                "language": "csharp",
+                "path": "./snippets/hello_csharp.json"
+            },
+            {
+                "language": "go",
+                "path": "./snippets/hello_go.json"
+            },
+            {
+                "language": "fsharp",
+                "path": "./snippets/hello_fsharp.json"
             }
         ]
     },
