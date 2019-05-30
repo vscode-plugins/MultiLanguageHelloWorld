@@ -11,6 +11,7 @@ Currently supported languages are:
 - C#
 - F#
 - Go
+- Groovy
 - Java
 - JavaScript
 - Lua

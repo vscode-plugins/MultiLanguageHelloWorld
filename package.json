@@ -49,6 +49,10 @@
             {
                 "language": "fsharp",
                 "path": "./snippets/hello_fsharp.json"
+            },
+            {
+                "language": "groovy",
+                "path": "./snippets/hello_groovy.json"
             }
         ]
     },
