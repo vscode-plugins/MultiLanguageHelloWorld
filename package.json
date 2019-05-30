@@ -39,6 +39,6 @@
     },
     "publisher": "SergeLamikhov",
     "repository": {
-        "url": "https://dev.azure.com/SergeLamikhov/_git/MultiLanguageHelloWorld"
+        "url": "https://github.com/vscode-plugins/MultiLanguageHelloWorld"
     }
 }
