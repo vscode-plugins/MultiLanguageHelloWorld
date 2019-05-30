@@ -16,6 +16,8 @@ Currently supported languages are:
 ## Usage
 Just start typing **'hello'** and use IntelliSence autocomplition to insert the code
 
+![alt text](example.gif) 
+
 ## Release Notes
 
 Initial release of Multi Language Hello World extension
