@@ -2,8 +2,11 @@
     "Hello World": {
         "prefix": "hello",
         "body"  : [
-            "let message : string = \"Hello World\";",
-            "console.log(message);",
+            "function sayHello(name: string): void {",
+            "    console.log(`Hello ${name}!`);",
+            "}",
+            "",
+            "sayHello('World');",
             ""
         ],
         "description": "Hello World"
