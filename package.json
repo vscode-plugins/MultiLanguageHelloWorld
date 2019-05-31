@@ -1,14 +1,30 @@
 {
     "name": "multilanguagehelloworld",
     "displayName": "Multi Language Hello World",
-    "description": "Multi Language Hello World VS Code extension permits insertion of \"Hello Wor",
-    "version": "0.0.6",
+    "description": "Multi Language Hello World VS Code extension permits insertion of \"Hello World\" program text for a number of programming languages",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.34.0"
     },
+    "icon": "HelloWorld.gif",
     "categories": [
+        "Programming Languages",
         "Snippets"
     ],
+    "keywords": [
+        "Hello World",
+        "C++",
+        "Java",
+        "Python"
+    ],
+    "publisher": "SergeLamikhov",
+    "license": "See license in LICENSE.txt",
+    "bugs": {
+        "url": "https://github.com/vscode-plugins/MultiLanguageHelloWorld/issues"
+    },
+    "repository": {
+        "url": "https://github.com/vscode-plugins/MultiLanguageHelloWorld"
+    },
     "contributes": {
         "snippets": [{
                 "language": "javascript",
@@ -55,9 +71,5 @@
                 "path": "./snippets/hello_groovy.json"
             }
         ]
-    },
-    "publisher": "SergeLamikhov",
-    "repository": {
-        "url": "https://github.com/vscode-plugins/MultiLanguageHelloWorld"
     }
 }
