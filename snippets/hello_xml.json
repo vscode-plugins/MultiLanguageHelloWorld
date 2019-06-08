@@ -1,0 +1,16 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [
+            "<?xml version=\"1.0\"?>",
+            "<?xml-stylesheet type=\"text/xsl\" href=\"hello.xsl\"?>",
+            "",
+            "<hello-world>",
+            "  <greeter>An XML Programmer</greeter>",
+            "  <greeting>Hello, World!</greeting>",
+            "</hello-world>",
+            ""
+        ],
+        "description": "Hello World!"
+    }
+}

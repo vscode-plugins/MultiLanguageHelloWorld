@@ -1,5 +1,9 @@
 # Change Log
 
+### 1.0.5
+
+- XML and XSLT snippets added
+
 ### 1.0.4
 
 - Objective-C snippet added
