@@ -9,6 +9,7 @@ Currently supported languages are:
 - C
 - C++
 - C#
+- CSS
 - F#
 - Go
 - Groovy
@@ -17,6 +18,7 @@ Currently supported languages are:
 - JavaScript
 - Lua
 - Python
+- Scala
 - TypeScript
 
 ## Usage

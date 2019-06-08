@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.3
+
+- Scala and CSS snippets added
+
 ## 1.0.2
 
 - HTML snippet added

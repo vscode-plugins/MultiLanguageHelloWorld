@@ -2,9 +2,9 @@
     "name": "multilanguagehelloworld",
     "displayName": "Multi Language Hello World",
     "description": "Multi Language Hello World VS Code extension permits insertion of \"Hello World\" program text for a number of programming languages",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
-        "vscode": "^1.34.0"
+        "vscode": "^1.20.0"
     },
     "icon": "HelloWorld.gif",
     "categories": [
@@ -26,14 +26,7 @@
         "url": "https://github.com/vscode-plugins/MultiLanguageHelloWorld"
     },
     "contributes": {
-        "snippets": [{
-                "language": "javascript",
-                "path": "./snippets/hello_js.json"
-            },
-            {
-                "language": "typescript",
-                "path": "./snippets/hello_ts.json"
-            },
+        "snippets": [
             {
                 "language": "c",
                 "path": "./snippets/hello_c.json"
@@ -43,28 +36,20 @@
                 "path": "./snippets/hello_cpp.json"
             },
             {
-                "language": "java",
-                "path": "./snippets/hello_java.json"
-            },
-            {
-                "language": "python",
-                "path": "./snippets/hello_py.json"
-            },
-            {
-                "language": "lua",
-                "path": "./snippets/hello_lua.json"
-            },
-            {
                 "language": "csharp",
                 "path": "./snippets/hello_csharp.json"
             },
             {
-                "language": "go",
-                "path": "./snippets/hello_go.json"
+                "language": "css",
+                "path": "./snippets/hello_css.json"
             },
             {
                 "language": "fsharp",
                 "path": "./snippets/hello_fsharp.json"
+            },
+            {
+                "language": "go",
+                "path": "./snippets/hello_go.json"
             },
             {
                 "language": "groovy",
@@ -73,6 +58,30 @@
             {
                 "language": "html",
                 "path": "./snippets/hello_html.json"
+            },
+            {
+                "language": "java",
+                "path": "./snippets/hello_java.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/hello_js.json"
+            },
+            {
+                "language": "lua",
+                "path": "./snippets/hello_lua.json"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/hello_py.json"
+            },
+            {
+                "language": "scala",
+                "path": "./snippets/hello_scala.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/hello_ts.json"
             }
         ]
     }
