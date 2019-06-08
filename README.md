@@ -17,6 +17,7 @@ Currently supported languages are:
 - Java
 - JavaScript
 - Lua
+- Objective-C
 - Python
 - Scala
 - TypeScript
@@ -28,10 +29,12 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-Initial release of Multi Language Hello World extension
+### 1.0.4
+
+- 15 programming language snippets are supported
 
 ### 1.0.0
 
-Initial release of Multi Language Hello World extension
+- Initial release of Multi Language Hello World extension
 
 **Enjoy!**
