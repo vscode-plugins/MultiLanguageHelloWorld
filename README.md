@@ -9,6 +9,7 @@ Currently supported languages are:
 - C
 - C++
 - C#
+- Clojure
 - CSS
 - F#
 - Go
@@ -31,9 +32,9 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-### 1.0.5
+### 1.0.6
 
-- 17 programming language snippets are supported
+- 18 programming language snippets are supported
 
 ### 1.0.0
 

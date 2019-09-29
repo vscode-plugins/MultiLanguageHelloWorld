@@ -1,5 +1,9 @@
 # Change Log
 
+### 1.0.6
+
+- Clojure snippets added
+
 ### 1.0.5
 
 - XML and XSLT snippets added
