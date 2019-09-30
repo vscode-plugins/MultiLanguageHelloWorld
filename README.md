@@ -25,6 +25,7 @@ Currently supported languages are:
 - Scala
 - Swift
 - TypeScript
+- Visual Basic (console)
 - XML
 - XSLT
 
@@ -35,9 +36,9 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-### 1.0.9
+### 1.0.10
 
-- 21 programming language snippets are supported
+- 22 programming language snippets are supported
 
 ### 1.0.0
 
