@@ -23,6 +23,7 @@ Currently supported languages are:
 - Python
 - Rust
 - Scala
+- Swift
 - TypeScript
 - XML
 - XSLT
@@ -34,9 +35,9 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-### 1.0.8
+### 1.0.9
 
-- 20 programming language snippets are supported
+- 21 programming language snippets are supported
 
 ### 1.0.0
 

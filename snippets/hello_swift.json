@@ -1,0 +1,15 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [
+            "import Swift",
+            "",
+            "var greating:String",
+            "",
+            "greating = \"Hello, World!\"",
+            "print(greating)",
+            ""
+        ],
+        "description": "Hello World"
+    }
+}
