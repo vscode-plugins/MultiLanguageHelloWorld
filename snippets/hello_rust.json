@@ -1,0 +1,13 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [
+            "fn main() {",
+            "    // Print text to the console",
+            "    println!(\"Hello World!\");",
+            "}",
+            ""
+        ],
+        "description": "Hello World"
+    }
+}
