@@ -19,6 +19,7 @@ Currently supported languages are:
 - HTML
 - Java
 - JavaScript
+- Kotlin
 - Lua
 - Makefile
 - Objective-C
@@ -39,9 +40,9 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-### 1.0.12
+### 1.0.13
 
-- 25 programming language snippets are supported
+- 26 programming language snippets are supported
 
 ### 1.0.0
 

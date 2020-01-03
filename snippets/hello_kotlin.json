@@ -1,0 +1,12 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [  
+            "fun main(args: Array<String>) {",
+            "    println(\"Hello World!\")",
+            "}",
+            ""
+        ],
+        "description": "Hello World"
+    }
+}

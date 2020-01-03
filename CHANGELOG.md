@@ -1,5 +1,9 @@
 # Change Log
 
+### 1.0.13
+
+- Kotlin language support added
+
 ### 1.0.12
 
 - Dart and Elixir support added

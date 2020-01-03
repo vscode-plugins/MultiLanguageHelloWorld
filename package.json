@@ -2,7 +2,7 @@
     "name": "multilanguagehelloworld",
     "displayName": "Multi Language Hello World",
     "description": "Multi Language Hello World VS Code extension permits insertion of \"Hello World\" program text for a number of programming languages",
-    "version": "1.0.11",
+    "version": "1.0.13",
     "engines": {
         "vscode": "^1.20.0"
     },
@@ -79,6 +79,10 @@
             {
                 "language": "javascript",
                 "path": "./snippets/hello_js.json"
+            },
+            {
+                "language": "kotlin",
+                "path": "./snippets/hello_kotlin.json"
             },
             {
                 "language": "lua",
