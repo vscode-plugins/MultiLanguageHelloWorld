@@ -1,0 +1,12 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [  
+            "void main() {",
+            "  print('Hello, World!');",
+            "}",
+            ""
+        ],
+        "description": "Hello World"
+    }
+}

@@ -49,6 +49,14 @@
                 "path": "./snippets/hello_css.json"
             },
             {
+                "language": "dart",
+                "path": "./snippets/hello_dart.json"
+            },
+            {
+                "language": "elixir",
+                "path": "./snippets/hello_elixir.json"
+            },
+            {
                 "language": "fsharp",
                 "path": "./snippets/hello_fsharp.json"
             },

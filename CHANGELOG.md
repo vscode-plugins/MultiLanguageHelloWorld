@@ -1,5 +1,9 @@
 # Change Log
 
+### 1.0.12
+
+- Dart and Elixir support added
+
 ### 1.0.6
 
 - Clojure snippets added

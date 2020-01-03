@@ -1,0 +1,14 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [  
+            "defmodule Hello do",
+            "    def sample do",
+            "        IO.puts \"Hello World!\"",
+            "    end",
+            "end",
+            ""
+        ],
+        "description": "Hello World"
+    }
+}
