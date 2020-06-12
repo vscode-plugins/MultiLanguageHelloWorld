@@ -6,6 +6,9 @@ program text for a number of programming languages
 ## Features
 
 Currently supported languages are:
+
+<table><tr><td>
+
 - C
 - C++
 - C#
@@ -13,6 +16,10 @@ Currently supported languages are:
 - CSS
 - Dart
 - Elixir
+
+</td>
+<td>
+
 - F#
 - Go
 - Groovy
@@ -20,6 +27,10 @@ Currently supported languages are:
 - Java
 - JavaScript
 - Kotlin
+
+</td>
+<td>
+
 - Lua
 - Makefile
 - Objective-C
@@ -27,11 +38,22 @@ Currently supported languages are:
 - Python
 - Rust
 - Scala
+
+
+</td>
+<td>
+
 - Swift
 - TypeScript
 - Visual Basic (console)
 - XML
 - XSLT
+-
+-
+
+</td>
+</tr>
+</table>
 
 ## Usage
 Just start typing **'hello'** and use IntelliSence autocomplition to insert the code
