@@ -1,0 +1,17 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [
+            "program HelloWorld;",
+            "uses crt;",
+            "",
+            "(* Here the main program block starts *)",
+            "begin",
+            "    writeln('Hello, World!');",
+            "    readkey;",
+            "end.",
+            ""
+        ],
+        "description": "Hello World!"
+    }
+}

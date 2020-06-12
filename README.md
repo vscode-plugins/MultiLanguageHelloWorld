@@ -35,20 +35,19 @@ Currently supported languages are:
 - Makefile
 - Objective-C
 - Perl
+- Pascal
 - Python
 - Rust
-- Scala
-
 
 </td>
 <td>
 
+- Scala
 - Swift
 - TypeScript
 - Visual Basic (console)
 - XML
 - XSLT
--
 -
 
 </td>
@@ -62,9 +61,9 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-### 1.0.13
+### 1.0.14
 
-- 26 programming language snippets are supported
+- 27 programming language snippets are supported
 
 ### 1.0.0
 

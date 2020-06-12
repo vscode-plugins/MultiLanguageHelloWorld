@@ -1,5 +1,9 @@
 # Change Log
 
+### 1.0.14
+
+- Pascal language support added
+
 ### 1.0.13
 
 - Kotlin language support added
