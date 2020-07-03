@@ -33,22 +33,22 @@ Currently supported languages are:
 
 - Lua
 - Makefile
+- MASM
 - Objective-C
 - Perl
 - Pascal
 - Python
-- Rust
 
 </td>
 <td>
 
+- Rust
 - Scala
 - Swift
 - TypeScript
 - Visual Basic (console)
 - XML
 - XSLT
--
 
 </td>
 </tr>
@@ -61,9 +61,9 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-### 1.0.14
+### 1.0.15
 
-- 27 programming language snippets are supported
+- 28 programming language snippets are supported
 
 ### 1.0.0
 
