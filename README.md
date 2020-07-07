@@ -20,37 +20,44 @@ Currently supported languages are:
 </td>
 <td>
 
+- Eiffel
+- Erlang
 - F#
 - Go
 - Groovy
 - HTML
 - Java
-- JavaScript
-- Kotlin
 
 </td>
 <td>
 
+- JavaScript
+- Kotlin
 - Lua
 - Makefile
 - MASM
 - Objective-C
 - Perl
-- Pascal
-- Python
 
 </td>
 <td>
 
+- Pascal
+- Python
 - Rust
 - Scala
 - Swift
 - TypeScript
 - Visual Basic (console)
+
+</td>
+<td>
+
 - XML
 - XSLT
 
 </td>
+
 </tr>
 </table>
 

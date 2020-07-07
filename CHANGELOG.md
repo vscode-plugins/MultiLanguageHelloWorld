@@ -1,5 +1,9 @@
 # Change Log
 
+### 1.0.16
+
+- Eiffel and Erlang language support added
+
 ### 1.0.15
 
 - MASM language support added
