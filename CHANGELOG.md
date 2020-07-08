@@ -1,8 +1,12 @@
 # Change Log
 
+### 1.0.17
+
+- Fortran and Scheme languages support added
+
 ### 1.0.16
 
-- Eiffel and Erlang language support added
+- Eiffel and Erlang languages support added
 
 ### 1.0.15
 

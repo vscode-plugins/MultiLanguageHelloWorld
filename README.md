@@ -16,43 +16,41 @@ Currently supported languages are:
 - CSS
 - Dart
 - Elixir
+- Eiffel
 
 </td>
 <td>
 
-- Eiffel
 - Erlang
 - F#
+- Fortran
 - Go
 - Groovy
 - HTML
 - Java
+- JavaScript
 
 </td>
 <td>
 
-- JavaScript
 - Kotlin
 - Lua
 - Makefile
 - MASM
 - Objective-C
 - Perl
+- Pascal
+- Python
 
 </td>
 <td>
 
-- Pascal
-- Python
 - Rust
 - Scala
+- Scheme
 - Swift
 - TypeScript
 - Visual Basic (console)
-
-</td>
-<td>
-
 - XML
 - XSLT
 
@@ -68,9 +66,9 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-### 1.0.15
+### 1.0.17
 
-- 28 programming language snippets are supported
+- 32 programming language snippets are supported
 
 ### 1.0.0
 
