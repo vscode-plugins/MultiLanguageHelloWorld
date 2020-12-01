@@ -11,68 +11,30 @@ program text for a number of programming languages
 
 Currently supported languages are:
 
-<table><tr><td>
-
-- C
-- C++
-- C#
-- Clojure
-- CSS
-- Dart
-- Elixir
-- Eiffel
-
-</td>
-<td>
-
-- Erlang
-- F#
-- Fortran
-- Go
-- Groovy
-- HTML
-- Java
-- JavaScript
-
-</td>
-<td>
-
-- Kotlin
-- Lua
-- Makefile
-- MASM
-- Objective-C
-- Perl
-- Pascal
-- Python
-
-</td>
-<td>
-
-- Rust
-- Scala
-- Scheme
-- Swift
-- TypeScript
-- Visual Basic (console)
-- XML
-- XSLT
-
-</td>
-
-</tr>
-</table>
+|         |            |             |                        |
+| ------- | ---------- | ----------- | ---------------------- |
+| C       | F#         | Makefile    | Scheme                 |
+| C++     | Fortran    | MASM        | Swift                  |
+| C#      | Go         | Objective-C | TypeScript             |
+| Clojure | Groovy     | Perl        | Visual Basic (console) |
+| CSS     | HTML       | Pascal      | XML                    |
+| Dart    | Java       | Pony        | XSLT                   |
+| Elixir  | JavaScript | Python      |                        |
+| Eiffel  | Kotlin     | Rust        |                        |
+| Erlang  | Lua        | Scala       |                        |
+---
 
 ## Usage
+
 Just start typing **'hello'** and use IntelliSence autocomplition to insert the code
 
-![alt text](example.gif) 
+![alt text](example.gif)
 
 ## Release Notes
 
-### 1.0.17
+### 1.0.19
 
-- 32 programming language snippets are supported
+- 33 programming language snippets are supported
 
 ### 1.0.0
 

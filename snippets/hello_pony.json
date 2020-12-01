@@ -1,0 +1,12 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [
+            "actor Main",
+            "    new create(env: Env) =>",
+            "        env.out.print(\"Hello, world!\")",
+            ""
+        ],
+        "description": "Hello World"
+    }
+}
