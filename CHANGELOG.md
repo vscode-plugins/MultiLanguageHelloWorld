@@ -1,6 +1,6 @@
 # Change Log
 
-## 1.0.20
+## 1.0.21
 
 - Nim language support added
 

@@ -32,7 +32,7 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-### 1.0.20
+### 1.0.21
 
 - 34 programming language snippets are supported
 
