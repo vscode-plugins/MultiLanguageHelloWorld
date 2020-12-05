@@ -13,15 +13,15 @@ Currently supported languages are:
 
 |         |            |             |                        |
 | ------- | ---------- | ----------- | ---------------------- |
-| C       | F#         | Makefile    | Scheme                 |
-| C++     | Fortran    | MASM        | Swift                  |
-| C#      | Go         | Objective-C | TypeScript             |
-| Clojure | Groovy     | Perl        | Visual Basic (console) |
-| CSS     | HTML       | Pascal      | XML                    |
-| Dart    | Java       | Pony        | XSLT                   |
-| Elixir  | JavaScript | Python      |                        |
-| Eiffel  | Kotlin     | Rust        |                        |
-| Erlang  | Lua        | Scala       |                        |
+| C       | F#         | Makefile    | Scala                  |
+| C++     | Fortran    | MASM        | Scheme                 |
+| C#      | Go         | Nim         | Swift                  |
+| Clojure | Groovy     | Objective-C | TypeScript             |
+| CSS     | HTML       | Perl        | Visual Basic (console) |
+| Dart    | Java       | Pascal      | XML                    |
+| Elixir  | JavaScript | Pony        | XSLT                   |
+| Eiffel  | Kotlin     | Python      |                        |
+| Erlang  | Lua        | Rust        |                        |
 ---
 
 ## Usage
@@ -32,9 +32,9 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-### 1.0.19
+### 1.0.20
 
-- 33 programming language snippets are supported
+- 34 programming language snippets are supported
 
 ### 1.0.0
 
