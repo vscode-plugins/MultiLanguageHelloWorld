@@ -2,7 +2,7 @@
     "name": "multilanguagehelloworld",
     "displayName": "Multi Language Hello World",
     "description": "Multi Language Hello World VS Code extension permits insertion of \"Hello World\" program text for a number of programming languages",
-    "version": "1.0.21",
+    "version": "1.0.22",
     "engines": {
         "vscode": "^1.20.0"
     },
@@ -59,6 +59,10 @@
             {
                 "language": "elixir",
                 "path": "./snippets/hello_elixir.json"
+            },
+            {
+                "language": "elm",
+                "path": "./snippets/hello_elm.json"
             },
             {
                 "language": "erlang",

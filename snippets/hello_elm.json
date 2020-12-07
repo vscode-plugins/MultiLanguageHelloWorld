@@ -1,0 +1,15 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [
+            "module HelloWorld exposing (..)",
+            "",
+            "import Html exposing (text)",
+            "",
+            "main =",
+            "  text \"Hello, World!\"",
+            ""
+        ],
+        "description": "Hello World"
+    }
+}
