@@ -19,9 +19,10 @@ Currently supported languages are:
 | Clojure | Go         | Nim         | Swift                  |
 | CSS     | Groovy     | Objective-C | TypeScript             |
 | Dart    | HTML       | Perl        | Visual Basic (console) |
-| Elixir  | Java       | Pascal      | XML                    |
-| Eiffel  | JavaScript | Pony        | XSLT                   |
-| Elm     | Kotlin     | Python      |                        |
+| Elixir  | Java       | Pascal      | Vue                    |
+| Eiffel  | JavaScript | Pony        | XML                    |
+| Elm     | Kotlin     | Python      | XSLT                   |
+
 ---
 
 ## Usage
@@ -30,14 +31,14 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ![alt text](example.gif)
 
+---
+
 ## Release Notes
 
-### 1.0.22
+### 1.0.23
 
-- 35 programming language snippets are supported
-
-### 1.0.0
-
-- Initial release of Multi Language Hello World extension
+- 36 programming language snippets are supported
 
 **Enjoy!**
+
+<sub><sup>By Serge Lamikhov-Center</sup></sub>
