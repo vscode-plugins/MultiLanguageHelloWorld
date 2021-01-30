@@ -1,0 +1,15 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body"  : [
+            "USE: io",
+            "IN: hello-world",
+            "",
+            ": hello ( -- ) \"Hello world\" print ;",
+            "",
+            "MAIN: hello",
+            ""
+        ],
+        "description": "Hello World"
+    }
+}

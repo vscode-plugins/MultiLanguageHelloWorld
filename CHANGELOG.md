@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.24
+
+- Factor language support added
+
 ## 1.0.23
 
 - Vue.js language support added
