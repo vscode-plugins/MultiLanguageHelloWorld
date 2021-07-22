@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.26
+
+- Crystal language support added
+
 ## 1.0.25
 
 - Ballerina language support added
