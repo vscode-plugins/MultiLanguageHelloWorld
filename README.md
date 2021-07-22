@@ -11,18 +11,18 @@ program text for a number of programming languages
 
 Currently supported languages are:
 
-|         |            |             |                        |
-| ------- | ---------- | ----------- | ---------------------- |
-| C       | F#         | Makefile    | Scheme                 |
-| C++     | Factor     | MASM        | Swift                  |
-| C#      | Fortran    | Nim         | TypeScript             |
-| Clojure | Go         | Objective-C | Visual Basic (console) |
-| CSS     | Groovy     | Perl        | Vue                    |
-| Dart    | HTML       | Pascal      | XML                    |
-| Elixir  | Java       | Pony        | XSLT                   |
-| Eiffel  | JavaScript | Python      |                        |
-| Elm     | Kotlin     | Rust        |                        |
-| Erlang  | Lua        | Scala       |                        |
+|           |            |             |                        |
+| --------- | ---------- | ----------- | ---------------------- |
+| Ballerina | Erlang     | Lua         | Scala                  |
+| C         | F#         | Makefile    | Scheme                 |
+| C++       | Factor     | MASM        | Swift                  |
+| C#        | Fortran    | Nim         | TypeScript             |
+| Clojure   | Go         | Objective-C | Visual Basic (console) |
+| CSS       | Groovy     | Perl        | Vue                    |
+| Dart      | HTML       | Pascal      | XML                    |
+| Elixir    | Java       | Pony        | XSLT                   |
+| Eiffel    | JavaScript | Python      |                        |
+| Elm       | Kotlin     | Rust        |                        |
 
 ---
 
@@ -36,9 +36,9 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-### 1.0.24
+### 1.0.25
 
-- 37 programming language snippets are supported
+- 38 programming language snippets are supported
 
 **Enjoy!**
 
