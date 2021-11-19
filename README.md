@@ -22,7 +22,7 @@ The list of supported languages:
 | CSS       | Groovy     | Perl        | Vue                    |
 | Dart      | HTML       | Pascal      | XML                    |
 | Elixir    | Java       | Pony        | XSLT                   |
-| Eiffel    | JavaScript | Python      |                        |
+| Eiffel    | JavaScript | Python      | Zig                    |
 
 ---
 
@@ -36,9 +36,9 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-### 1.0.26
+### 1.0.27
 
-- 39 programming language snippets are supported
+- 40 programming language snippets are supported
 
 **Enjoy!**
 
