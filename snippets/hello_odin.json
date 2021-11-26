@@ -1,0 +1,16 @@
+{
+    "Hello World": {
+        "prefix": "hello",
+        "body": [
+            "package main",
+            "",
+            "import \"core:fmt\"",
+            "",
+            "main :: proc() {",
+            "    fmt.println(\"Hello World!\")",
+            "}",
+            ""
+        ],
+        "description": "Hello World"
+    }
+}

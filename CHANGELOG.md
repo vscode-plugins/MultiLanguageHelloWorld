@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.0.28
+
+- Odin language support added
+
+## 1.0.27
+
+- Zig language support added
+
 ## 1.0.26
 
 - Crystal language support added

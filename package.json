@@ -2,7 +2,7 @@
     "name": "multilanguagehelloworld",
     "displayName": "Multi Language Hello World",
     "description": "Multi Language Hello World VS Code extension permits insertion of \"Hello World\" program text for a number of programming languages",
-    "version": "1.0.27",
+    "version": "1.0.28",
     "engines": {
         "vscode": "^1.20.0"
     },
@@ -131,6 +131,10 @@
             {
                 "language": "objective-c",
                 "path": "./snippets/hello_objective-c.json"
+            },
+            {
+                "language": "odin",
+                "path": "./snippets/hello_odin.json"
             },
             {
                 "language": "pascal",

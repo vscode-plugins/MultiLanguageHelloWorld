@@ -9,20 +9,21 @@ program text for a number of programming languages
 
 ## Features
 
-The list of supported languages:
+The supported languages are:
 
 |           |            |             |                        |
 | --------- | ---------- | ----------- | ---------------------- |
-| Ballerina | Elm        | Kotlin      | Rust                   |
-| C         | Erlang     | Lua         | Scala                  |
-| C++       | F#         | Makefile    | Scheme                 |
-| C#        | Factor     | MASM        | Swift                  |
-| Clojure   | Fortran    | Nim         | TypeScript             |
-| Crystal   | Go         | Objective-C | Visual Basic (console) |
-| CSS       | Groovy     | Perl        | Vue                    |
-| Dart      | HTML       | Pascal      | XML                    |
-| Elixir    | Java       | Pony        | XSLT                   |
-| Eiffel    | JavaScript | Python      | Zig                    |
+| Ballerina | Erlang     | Makefile    | Scheme                 |
+| C         | F#         | MASM        | Swift                  |
+| C++       | Factor     | Nim         | TypeScript             |
+| C#        | Fortran    | Objective-C | Visual Basic (console) |
+| Clojure   | Go         | Odin        | Vue                    |
+| Crystal   | Groovy     | Perl        | XML                    |
+| CSS       | HTML       | Pascal      | XSLT                   |
+| Dart      | Java       | Pony        | Zig                    |
+| Elixir    | JavaScript | Python      |                        |
+| Eiffel    | Kotlin     | Rust        |                        |
+| Elm       | Lua        | Scala       |                        |
 
 ---
 
@@ -36,10 +37,10 @@ Just start typing **'hello'** and use IntelliSence autocomplition to insert the 
 
 ## Release Notes
 
-### 1.0.27
+### 1.0.28
 
-- 40 programming language snippets are supported
+- 41 programming language snippets are supported
 
 **Enjoy!**
 
-<sub><sup>By Serge Lamikhov-Center</sup></sub>
+<sub>By Serge Lamikhov-Center</sub>
